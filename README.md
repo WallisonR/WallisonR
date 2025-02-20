@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho em outra área do mercado, porém sempre focado no desenvolvimento Full Stack
 - 🌱 Estudando Ruby, Javascript e Python
-- 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wallison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
