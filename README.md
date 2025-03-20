@@ -5,20 +5,12 @@
 💡 Interesse em boas práticas, arquitetura de software e qualidade de código.
 
 🔧 Tecnologias:
-🛠️ Backend: Python, Node.js, Ruby on Rails
-🎨 Frontend: Vue.js, Next.js
-💾 Banco de Dados: SQL
-🐳 DevOps: Docker, Git
+-🛠️ Backend: Python, Node.js, Ruby on Rails
+-🎨 Frontend: Vue.js, Next.js
+-💾 Banco de Dados: SQL
+-🐳 DevOps: Docker, Git
 
 Sempre buscando novos desafios! 🚀
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wallison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wallison-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="Wallison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wallison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wallison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
   ##
 
