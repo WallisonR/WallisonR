@@ -1,7 +1,16 @@
-## Olá! Eu sou o Wallison Rocha
+## Olá! Eu sou o Wallison Rocha! 👋
 
-- 🔭 Hoje trabalho em outra área do mercado, porém sempre focado no desenvolvimento Full Stack
-- 🌱 Estudando Ruby, Javascript e Python
+🚀 Desenvolvedor Full Stack em constante aprendizado, ganhando experiência com Python, JavaScript, Ruby, Ruby on Rails, Vue.js, Next.js e Node.js.
+
+💡 Interesse em boas práticas, arquitetura de software e qualidade de código.
+
+🔧 Tecnologias:
+🛠️ Backend: Python, Node.js, Ruby on Rails
+🎨 Frontend: Vue.js, Next.js
+💾 Banco de Dados: SQL
+🐳 DevOps: Docker, Git
+
+Sempre buscando novos desafios! 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wallison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
