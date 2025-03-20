@@ -5,10 +5,10 @@
 💡 Interesse em boas práticas, arquitetura de software e qualidade de código.
 
 🔧 Tecnologias:
--🛠️ Backend: Python, Node.js, Ruby on Rails
--🎨 Frontend: Vue.js, Next.js
--💾 Banco de Dados: SQL
--🐳 DevOps: Docker, Git
+- 🛠️ Backend: Python, Node.js, Ruby on Rails
+- 🎨 Frontend: Vue.js, Next.js
+- 💾 Banco de Dados: SQL
+- 🐳 DevOps: Docker, Git
 
 Sempre buscando novos desafios! 🚀
 
