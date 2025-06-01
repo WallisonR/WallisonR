@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Wallison Rocha! 👋
 
-🚀 Desenvolvedor Full Stack em constante aprendizado, ganhando experiência com Python, JavaScript, Ruby, Ruby on Rails, Vue.js, Next.js e Node.js.
+🚀 Desenvolvedor Full Stack em constante aprendizado, ganhando experiência com JavaScript, Ruby, Ruby on Rails, Vue.js, Next.js, Node.js e Python.
 
 💡 Interesse em boas práticas, arquitetura de software e qualidade de código.
 
