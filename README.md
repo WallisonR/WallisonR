@@ -12,11 +12,6 @@ Desenvolvedor Full Stack com experiência em **aplicações web, integrações v
 **DevOps:** Docker · Git
 **IA:** OpenAI API · Automação de Processos
 
-### 📊 GitHub
-
-<div align="left">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallisonR&layout=compact&hide_border=true&title_color=fb6f92&text_color=ffffff&bg_color=0d1117" />
-</div>
 
 ### 🤝 Contato
 
