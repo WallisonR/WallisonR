@@ -6,11 +6,11 @@ Desenvolvedor Full Stack com experiência em **aplicações web, integrações v
 
 ### 🛠️ Tecnologias
 
-**Backend:** Ruby on Rails · Node.js · Python
-**Frontend:** Vue.js · Next.js · React · TypeScript
-**Database:** PostgreSQL · MySQL
-**DevOps:** Docker · Git
-**IA:** OpenAI API · Automação de Processos
+<ul>**Backend:** Ruby on Rails · Node.js · Python</ul>
+<ul>**Frontend:** Vue.js · Next.js · React · TypeScript</ul>
+<ul>**Database:** PostgreSQL · MySQL</ul>
+<ul>**DevOps:** Docker · Git</ul>
+<ul>**IA:** OpenAI API · Automação de Processos</ul>
 
 
 ### 🤝 Contato
